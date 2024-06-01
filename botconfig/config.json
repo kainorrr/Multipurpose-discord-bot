@@ -10,7 +10,7 @@
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
+        "type": "STREAMING",
         "url": "https://twitch.tv/milratodiscordbot"
     },
     "clientsettings": {
