@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "token",
     "prefix": ".",
     "ownerIDS": [
-        "442355791412854784"
+        "1241065568833114142, 852784127447269396"
     ],
     "fnbr": "DISABLED",
     "fortnitetracker": "DISABLED",
